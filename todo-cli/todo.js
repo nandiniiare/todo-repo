@@ -39,7 +39,6 @@ const todoList = () => {
     });
     return output;
   };
-  
 
   return {
     all,
